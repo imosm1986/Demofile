@@ -1,2 +1,0 @@
-this from slave host
-lines added by remote 
